@@ -1,6 +1,6 @@
 ## Tensorflow 2.0 implementation of RNN + attention-based automatic punctuation
 
-Derived from (this project)[https://github.com/ottokart/punctuator2] written in Theano.
+Derived from [this project](https://github.com/ottokart/punctuator2) written in Theano.
 
 At this stage this is a rough draft, tested only with a single type of "punctuation"
 (actually, sentence boundaries). However, it is easily adapted to any number of punctuation markers.
